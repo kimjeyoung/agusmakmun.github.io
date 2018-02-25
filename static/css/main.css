@@ -155,7 +155,7 @@ div.col-sm-3 img.profile-avatar {
 }
 
 .share-page {
-  padding: 10px 10px 5px;
+  padding: 10px 10px;   /*10 10 5 */
   border-top: 1px solid #f0f0f0;
   border-bottom: 1px solid #f0f0f0;
 }
