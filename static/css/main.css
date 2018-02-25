@@ -88,12 +88,12 @@ div.col-sm-3 {
   color: #666;
 }
 div.col-sm-3 strong {
-  font-size: 16px;
+  font-size: 25px;
   color: #4A4A4A;
   font-weight: normal;
 }
 div.col-sm-3 div.profile-about {
-  margin-top: 10px;
+  margin-top: 25px;
   color: #8C8C8C;
 }
 div.col-sm-3 img.profile-avatar {
