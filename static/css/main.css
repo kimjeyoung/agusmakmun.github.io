@@ -85,6 +85,7 @@ footer {
 /* Left column */
 div.col-sm-3 {
   background: #fff;
+  opacity: 0.5;
   margin-top: 250px;       /*left profile location*/
   font-size: 25px;
   color: #666;
