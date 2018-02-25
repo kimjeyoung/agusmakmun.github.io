@@ -31,10 +31,10 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #043651;
+  color: #043651;             /* highlight color */
 }
 a:hover {
-  color: #96161c;
+  color: #96161c;             /* highlight color when click */
   text-decoration: underline;
 }
 
@@ -83,7 +83,7 @@ footer {
 
 /* Left column */
 div.col-sm-3 {
-  margin-top: 100px;
+  margin-top: 150px;
   font-size: 25px;
   color: #666;
   margin-left: auto;
