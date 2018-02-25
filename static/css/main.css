@@ -159,6 +159,7 @@ div.col-sm-3 img.profile-avatar {
 }
 
 /* Responsive Conditional */
+/*
 @media (min-width: 1024px) {
   .fixed-condition {
     position: fixed;
@@ -170,3 +171,4 @@ div.col-sm-3 img.profile-avatar {
     margin-top: 30px;
   }
 }
+*/
