@@ -24,8 +24,8 @@ social:
 urls:
     - text: About Me
       url: /about/
-    - text: Personal Project
-      url: /projects/
+#    - text: Personal Project
+#      url: /projects/
 
 
 url: "https://kimjeyoung.github.io"
