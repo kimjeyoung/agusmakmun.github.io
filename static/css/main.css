@@ -147,7 +147,7 @@ div.col-sm-3 img.profile-avatar {
   margin: 0 5px;
 }
 .social li a {
-  font-size: 16px;
+  font-size: 25px;
   color: #969394;
 }
 .social li a:hover {
@@ -155,7 +155,7 @@ div.col-sm-3 img.profile-avatar {
 }
 
 .share-page {
-  padding: 10px 10px 0px;   /*10 10 5 */
+  padding: 10px 10px;   /*10 10 5 */
   border-top: 1px solid #f0f0f0;
   border-bottom: 1px solid #f0f0f0;
 }
