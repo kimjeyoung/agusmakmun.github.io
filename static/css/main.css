@@ -5,6 +5,7 @@ body {
   font-weight: 300;
   font-size: 25px;
   color: #666;
+  opacity: 0.3;
 }
 hr {
   margin-top: 20px;
