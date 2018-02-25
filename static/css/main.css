@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto Condensed", Arial, sans-serif;
   background: url("/static/img/background.jpg");
+  opacity: 0.5;
   line-height: 1.5em;
   font-weight: 300;
   font-size: 25px;
@@ -41,7 +42,6 @@ a:hover {
 /* Layout */
 .main-layout {
   background: #fff;
-
 }
 .sidebar-nav {
   margin: 0;
