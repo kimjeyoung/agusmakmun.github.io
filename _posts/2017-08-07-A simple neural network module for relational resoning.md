@@ -20,6 +20,7 @@ Statistic 방식의 접근은 딥러닝에서 흔히 발생할 수 있는 data-p
 
 우선 관계추론을 어디에 적용할 수 있는지 알아보겠습니다. 
 
-![elkejlk](https://github.com/kimjeyoung/kimjeyoung.github.io/blob/master/static/img/_posts/CLEVR.jpg  "sdfsdf")
+![aaaa](https://github.com/kimjeyoung/kimjeyoung.github.io/master/static/img/_posts/CLEVR.jpg  "aaaa")
+
 
 [1]: https://arxiv.org/abs/1706.01427
