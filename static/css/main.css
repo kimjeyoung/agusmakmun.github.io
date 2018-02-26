@@ -96,6 +96,22 @@ footer {
   padding-bottom: 10px;
 }
 
+
+/* Content -1 */
+div.content1 pre {
+  background: #333333;
+  padding: 10px;
+  color: #FFF;
+  overflow-x: auto;
+  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-size: 12px;
+  border: none;
+}
+div.content1 .highlight {
+	background: #333333;
+}
+
+
 /* Left column */
 div.col-sm-3 {
 

@@ -158,6 +158,85 @@ layout: compress
       </div>
       <!-- end /.col-sm-8 -->
     </div>
+
+
+
+
+
+
+    <!-- test -->
+
+    <div class="container" style="height: 100%; width: 100%;"> <!-- container layout 크기 지정하기 -->
+      <div class="col-sm-3">
+        <div class="fixed-condition">
+          <a href="/"><img class="profile-avatar" src="{{ site.avatar_url }}" height="150px" width="150px" /></a>
+          <h1 class="author-name">{{ site.author }}</h1>
+          {% if site.about %}
+            <div class="profile-about">
+              {{ site.about }}
+            </div>
+          {% endif %}
+          <div class="social">
+            <ul>
+              {% for link in site.social %}
+                <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="search" id="js-search">
+            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+            <ul class="search__results" id="js-search__results"></ul>
+          </div>
+          <hr />
+          <ul class="sidebar-nav">
+            <strong>Navigation</strong>
+            <li><a href="/">Home</a></li>
+            {% for i in site.urls %}
+              <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <!-- end /.fixed-condition -->
+      </div>
+      <div class="col-sm-8 col-offset-1 main-layout">
+        {{ content }}
+        <footer>
+          &copy; {{ site.author }}
+          {% if site.github %}
+            - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll.
+          {% endif %}
+          <div class="btn-github" style="float:right;">
+            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
+          </div>
+        </footer>
+      </div>
+      <!-- end /.col-sm-8 -->
+    </div>
+
+
+
+
+
+    <!-- test -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <!-- end /.container -->
 
     <!-- Bootstrap core JavaScript -->
