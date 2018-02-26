@@ -22,6 +22,12 @@ Statistic 방식의 접근은 딥러닝에서 흔히 발생할 수 있는 data-p
 
 ![CLEVR](https://raw.githubusercontent.com/kimjeyoung/kimjeyoung.github.io/master/static/img/_posts/CLEVR.jpg  "CLEVR"){: .center-image }
 
+위의 이미지([Data set of CLEVR][2]) 를 보면 다양한 모형들이 존재합니다. 일반적인 분류문제를 예로 든다면 빨간 직육면체가 존재하니? 등을 예로 들 수 있지만
+관계추론의 경우 환경과의 상호적인 관계에 대해 추론하는 것을 뜻합니다. 예를 들면 파란색 정육면체 뒤에 있는 도형은 어떤 색을 가지고 있니? 등 이미지 안에서 object 간의 관계를 통해서 답을 유추해 해는 것을 뜻합니다.
 
-ddddd
+이 논문에서는 CLEVR 데이터셋을 사용하였고 이는 각각의 도형들의 집합들이 이미지안에 존재합니다.
+
+
+
 [1]: https://arxiv.org/abs/1706.01427
+[2]: https://cs.stanford.edu/people/jcjohns/clevr/
