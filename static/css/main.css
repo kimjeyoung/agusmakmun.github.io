@@ -38,6 +38,19 @@ a:hover {
   text-decoration: underline;
 }
 
+
+/* image center position */
+.center-image{
+    margin: 0 auto;
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
 /* Layout */
 .main-layout {
   margin-top: 80px;
