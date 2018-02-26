@@ -119,20 +119,20 @@ div.col-sm-3 {
   font-size: 20px;
   color: #666;
 
-  margin-left: 40px;
+  margin-left: 80px;
   margin-right: auto;
 }
 div.col-sm-3 strong {
   font-size: 20px;
   color: #4A4A4A;
   font-weight: normal;
-  margin-left: 40px;
+  margin-left: 80px;
   margin-right: auto;
 }
 div.col-sm-3 div.profile-about {
   margin-top: 20px;
   color: #8C8C8C;
-  margin-left: 40px;
+  margin-left: 80px;
   margin-right: auto;
 }
 div.col-sm-3 img.profile-avatar {
@@ -141,7 +141,7 @@ div.col-sm-3 img.profile-avatar {
   -moz-border-radius: 150px;
   -ms-border-radius: 150px;
   -o-border-radius: 150px;
-  margin-left: 40px;
+  margin-left: 80px;
   margin-right: auto;
 }
 
