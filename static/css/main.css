@@ -5,6 +5,7 @@ body {
   font-weight: 300;
   font-size: 20px;
   color: #666;
+  margin-left:80px;
 }
 hr {
   margin-top: 20px;
@@ -97,19 +98,6 @@ footer {
 }
 
 
-/* Content -1 */
-div.content1 pre {
-  background: #333333;
-  padding: 10px;
-  color: #FFF;
-  overflow-x: auto;
-  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
-  font-size: 12px;
-  border: none;
-}
-div.content1 .highlight {
-	background: #333333;
-}
 
 
 /* Left column */
@@ -119,20 +107,20 @@ div.col-sm-3 {
   font-size: 20px;
   color: #666;
 
-  margin-left: 80px;
+  margin-left: auto;
   margin-right: auto;
 }
 div.col-sm-3 strong {
   font-size: 20px;
   color: #4A4A4A;
   font-weight: normal;
-  margin-left: 80px;
+  margin-left: auto;
   margin-right: auto;
 }
 div.col-sm-3 div.profile-about {
   margin-top: 20px;
   color: #8C8C8C;
-  margin-left: 80px;
+  margin-left: auto;
   margin-right: auto;
 }
 div.col-sm-3 img.profile-avatar {
@@ -141,7 +129,7 @@ div.col-sm-3 img.profile-avatar {
   -moz-border-radius: 150px;
   -ms-border-radius: 150px;
   -o-border-radius: 150px;
-  margin-left: 80px;
+  margin-left: auto;
   margin-right: auto;
 }
 
