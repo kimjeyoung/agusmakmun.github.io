@@ -5,6 +5,8 @@ body {
   font-weight: 300;
   font-size: 20px;
   color: #666;
+  margin-left: auto;
+  amrgin-right: auto;
 }
 hr {
   margin-top: 20px;
