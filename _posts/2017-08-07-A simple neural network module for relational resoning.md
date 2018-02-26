@@ -3,7 +3,7 @@ layout: post
 title:  "A simple neural network module for relational reasoning"
 date:   2017-08-07 00:18:23 +0700
 categories: [deeplearning]
-image: CLEVR.png
+image: CLEVR.jpg
 ---
 
 ### Implement Paper
@@ -20,6 +20,6 @@ Statistic 방식의 접근은 딥러닝에서 흔히 발생할 수 있는 data-p
 
 우선 관계추론을 어디에 적용할 수 있는지 알아보겠습니다. 
 
-![CLEVR](https://raw.githubusercontent.com/kimjeyoung/kimjeyoung.github.io/master/static/img/_posts/CLEVR.png  "CLEVR")
+![CLEVR](https://raw.githubusercontent.com/kimjeyoung/kimjeyoung.github.io/master/static/img/_posts/CLEVR.jpg  "CLEVR")
 
 [1]: https://arxiv.org/abs/1706.01427
