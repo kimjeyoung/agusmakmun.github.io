@@ -51,26 +51,26 @@ Researcher of [Teamlab][30]
 [![video](./image/disease.png){: width="800px" height="500px"}](https://www.youtube.com/watch?v=5QrdDLqG3xw)
 
 <br>
-#### video object detection
+#### video object detection using YOLO
 
 [![video](./image/real-time.png){: width="800px" height="500px"}](https://youtu.be/OvjtCKlgWD4)
 
 <br>
-#### android community application 
+#### Android community application 
 
 ![image](./image/read.png){: width="800px" height="500px"}<br>
 
 [link here][23]
 
 <br>
-#### simple chatbot
+#### Simple chatbot using seq2seq
 
 ![image](./image/chatbot.png){: width="800px" height="500px"}<br>
 
 [code][14]
 
 <br>
-#### transform show attend and tell model to top-k show attend and tell
+#### Transform show attend and tell model to top-k show attend and tell
 
 ![image](./image/show.png){: width="800px" height="500px"}<br>
 
@@ -80,33 +80,33 @@ Researcher of [Teamlab][30]
 
 ***
 
-### presentation
+### Presentation
 
-![image](./image/brain.png)
+![image](./image/brain.png){: width="800px" height="500px"}
 
 [presentation brain disease][24]
 
-![image](./image/caps.png)
+![image](./image/caps.png){: width="800px" height="500px"}
 
 [presentation CapsNet][25]
 
-![image](./image/rn.png)
+![image](./image/rn.png){: width="800px" height="500px"}
 
 [presentation Deepmind relation network][26]
 
-![image](./image/yolo.png)
+![image](./image/yolo.png){: width="800px" height="500px"}
 
 [presentation YoLo][27]
 
-![image](./image/fcn.png)
+![image](./image/fcn.png){: width="800px" height="500px"}
 
 [presentation FCN][28]
 
-![image](./image/dcgan.png)
+![image](./image/dcgan.png){: width="800px" height="500px"}
 
 [presentation DCGAN][29]
 
-![image](./image/show.png)
+![image](./image/show.png){: width="800px" height="500px"}
 
 [presentation show attend and tell][31]
 
