@@ -36,27 +36,27 @@ Researcher of [Teamlab][30]
 
 ###### brain disease prediction 
 
-[![video](./image/disease.png){: width="400px" height="300px"}](https://www.youtube.com/watch?v=5QrdDLqG3xw)
+[![video](./image/disease.png){: width="500px" height="300px"}](https://www.youtube.com/watch?v=5QrdDLqG3xw)
 
 ###### video object detection
 
-[![video](./image/real-time.png){: width="400px" height="300px"}](https://youtu.be/OvjtCKlgWD4)
+[![video](./image/real-time.png){: width="500px" height="300px"}](https://youtu.be/OvjtCKlgWD4)
 
 ###### android community application 
 
-![image](./image/read.png)<br>
+![image](./image/read.png){: width="500px" height="300px"}<br>
 
 [link here][23]
 
 ###### simple chatbot
 
-![image](./image/chatbot.png)<br>
+![image](./image/chatbot.png){: width="500px" height="300px"}<br>
 
 [code][14]
 
 ###### transform show attend and tell model to top-k show attend and tell
 
-![image](./image/show.png)<br>
+![image](./image/show.png){: width="500px" height="300px"}<br>
 
 [code][22]
 
