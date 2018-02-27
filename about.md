@@ -11,12 +11,13 @@ permalink: /about/
 B.S in Biomedical engineering and Computer Engineering in [Gachon][1]<br>
 Researcher of [Teamlab][30]
 
+<center>
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:        |
 | col 3 is      | some wordy text | $1600         |
 | col 2 is      | centered        |   $12         |
 | zebra stripes | are neat        |    $1         |
- 
+</center> 
 
 ### Interest
 
