@@ -34,6 +34,10 @@ Researcher of [Teamlab][30]
 
 ### projects
 
+#### 가천대학교 해커톤(대상) 시각장애인을 위한 비젼인식 어플리케이
+
+[![video](./image/chorong.png){: width="500px" height="300px"}](https://www.youtube.com/watch?v=mSIO4j-3gbg)
+
 #### brain disease prediction 
 
 [![video](./image/disease.png){: width="500px" height="300px"}](https://www.youtube.com/watch?v=5QrdDLqG3xw)
