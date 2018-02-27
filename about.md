@@ -34,36 +34,43 @@ Researcher of [Teamlab][30]
 
 ### projects
 
-#### 가천대학교 해커톤(대상) 시각장애인을 위한 비젼인식 어플리케이
+#### 가천대학교 해커톤(대상) 시각장애인을 위한 비젼인식 어플리케이션
 
-[![video](./image/chorong.png){: width="500px" height="300px"}](https://www.youtube.com/watch?v=mSIO4j-3gbg)
+[![video](./image/chorong.png){: width="800px" height="500px"}](https://www.youtube.com/watch?v=mSIO4j-3gbg) 
+
+<br>
 
 #### brain disease prediction 
 
-[![video](./image/disease.png){: width="500px" height="300px"}](https://www.youtube.com/watch?v=5QrdDLqG3xw)
+[![video](./image/disease.png){: width="800px" height="500px"}](https://www.youtube.com/watch?v=5QrdDLqG3xw)
 
+<br>
 #### video object detection
 
-[![video](./image/real-time.png){: width="500px" height="300px"}](https://youtu.be/OvjtCKlgWD4)
+[![video](./image/real-time.png){: width="800px" height="500px"}](https://youtu.be/OvjtCKlgWD4)
 
+<br>
 #### android community application 
 
-![image](./image/read.png){: width="500px" height="300px"}<br>
+![image](./image/read.png){: width="800px" height="500px"}<br>
 
 [link here][23]
 
+<br>
 #### simple chatbot
 
-![image](./image/chatbot.png){: width="500px" height="300px"}<br>
+![image](./image/chatbot.png){: width="800px" height="500px"}<br>
 
 [code][14]
 
+<br>
 #### transform show attend and tell model to top-k show attend and tell
 
-![image](./image/show.png){: width="500px" height="300px"}<br>
+![image](./image/show.png){: width="800px" height="500px"}<br>
 
 [code][22]
 
+<br>
 ***
 
 ### presentation
