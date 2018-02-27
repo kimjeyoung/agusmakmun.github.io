@@ -10,11 +10,8 @@ permalink: /about/
 ### Profile
 B.S in Biomedical engineering and Computer Engineering in [Gachon][1]<br>
 Researcher of [Teamlab][30] <br>
-
-| contact  | Second Header |
-| ------------- | ------------- |
-| E-mail  | kimjeyoung1@naver.com  |
-| Github  | github.com/kimjeyoung  |
+E-mail : kimjeyoung1@naver.com <br>
+Github : github.com/kimjeyoung 
 
 ### Interest
 
