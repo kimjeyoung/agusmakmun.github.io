@@ -36,11 +36,11 @@ Researcher of [Teamlab][30]
 
 ###### brain disease prediction 
 
-[![video](./image/disease.png)](https://www.youtube.com/edit?video_id=5QrdDLqG3xw)
+[![video](./image/disease.png)](https://youtu.be/5QrdDLqG3xw)
 
 ###### video object detection
 
-[![video](./image/real-time.png)](https://www.youtube.com/watch?v=OvjtCKlgWD4)
+[![video](./image/real-time.png)](https://youtu.be/OvjtCKlgWD4)
 
 ###### android community application 
 
