@@ -36,7 +36,7 @@ Researcher of [Teamlab][30]
 
 ###### brain disease prediction 
 
-[![video](./image/disease.png)](https://youtu.be/5QrdDLqG3xw)
+[![video](./image/disease.png)](https://www.youtube.com/watch?v=5QrdDLqG3xw)
 
 ###### video object detection
 
