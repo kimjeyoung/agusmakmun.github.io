@@ -10,6 +10,12 @@ permalink: /about/
 ### Profile
 B.S in Biomedical engineering and Computer Engineering in [Gachon][1]<br>
 Researcher of [Teamlab][30]
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:        |
+| col 3 is      | some wordy text | $1600         |
+| col 2 is      | centered        |   $12         |
+| zebra stripes | are neat        |    $1         |
  
 
 ### Interest
@@ -18,9 +24,7 @@ Researcher of [Teamlab][30]
 
 ***
 
-### Personal projects
-
-##### Deep Learning paper implements
+### Deep Learning paper implements
 
 * ALexNet [[paper][3]] [[code][4]]
 * Convolution Neural Networks [[code][6]]
@@ -31,6 +35,8 @@ Researcher of [Teamlab][30]
 * YoLo [[paper][17]] [[code][18]]
 * FCN [[paper][19]] [[code][20]]
 * Show attend and tell of image captioning [[paper][21]] [[code][22]]
+
+***
 
 ### projects
 
@@ -71,6 +77,7 @@ Researcher of [Teamlab][30]
 [code][22]
 
 <br>
+
 ***
 
 ### presentation
@@ -135,4 +142,3 @@ Researcher of [Teamlab][30]
 [4]:https://github.com/kimjeyoung/Machine-Learning/blob/master/Alexnet/Alexnet.ipynb
 [30]:http://theteamlab.io
 
-email: agus[at]python.web.id
