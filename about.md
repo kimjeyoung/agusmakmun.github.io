@@ -32,29 +32,29 @@ Researcher of [Teamlab][30]
 * FCN [[paper][19]] [[code][20]]
 * Show attend and tell of image captioning [[paper][21]] [[code][22]]
 
-##### projects
+### projects
 
-###### brain disease prediction 
+#### brain disease prediction 
 
 [![video](./image/disease.png){: width="500px" height="300px"}](https://www.youtube.com/watch?v=5QrdDLqG3xw)
 
-###### video object detection
+#### video object detection
 
 [![video](./image/real-time.png){: width="500px" height="300px"}](https://youtu.be/OvjtCKlgWD4)
 
-###### android community application 
+#### android community application 
 
 ![image](./image/read.png){: width="500px" height="300px"}<br>
 
 [link here][23]
 
-###### simple chatbot
+#### simple chatbot
 
 ![image](./image/chatbot.png){: width="500px" height="300px"}<br>
 
 [code][14]
 
-###### transform show attend and tell model to top-k show attend and tell
+#### transform show attend and tell model to top-k show attend and tell
 
 ![image](./image/show.png){: width="500px" height="300px"}<br>
 
