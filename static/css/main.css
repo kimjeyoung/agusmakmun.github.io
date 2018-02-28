@@ -188,7 +188,7 @@ div.col-sm-3 img.profile-avatar {
 
 /* 상대적 레이아웃 이부분 주석 취소하면 크롬에서는 폰트사이즈 및 레이아웃 구성 안바뀜. */
 /* Responsive Conditional */
-
+/*
 @media (min-width: 1024px) {
   .fixed-condition {
     position: fixed;
@@ -200,3 +200,4 @@ div.col-sm-3 img.profile-avatar {
     margin-top: 30px;
   }
 }
+*/
